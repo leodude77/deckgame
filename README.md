@@ -1,10 +1,10 @@
 # Games on deck
+Bright Memory: Infinite | Thu Jan 01 1970  
 Drakengard 3 | Tue Feb 07 2023  
+God of War | Fri Feb 10 2023  
 Shin Megami Tensei III Nocturne HD Remaster | Thu Jan 26 2023  
 Shin Megami Tensei V | Sat Jan 28 2023  
-God of War | Fri Feb 10 2023  
 Shin Megami Tensei V (Ryujinx) | Sat Jan 28 2023  
-Bright Memory: Infinite | Thu Jan 01 1970  
 Streets of Rage 4 | Tue Feb 07 2023  
 Ys: The Oath in Felghana | Thu Jan 01 1970  
 ~~Harry Potter and the Chamber of Secrets~~ | Wed Jan 11 2023  

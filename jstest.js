@@ -24,6 +24,11 @@ shortcut.parseFile(filePath,
             gameListPC.push(tempObject)
         }
 
+        gameListPC.sort(function(a,b){
+            return (a.gameName > b.gameName) - (a.gameName < b.gameName)
+            }
+        );
+
         var gameListRepo = []
         fs.readFileSync('./README.md').toString().split('\n').forEach(function (line) {
             let split = line.trim().split(' | ')
