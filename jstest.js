@@ -29,7 +29,7 @@ shortcut.parseFile(filePath,
             let split = line.trim().split(' | ')
             if (split[0] != undefined) {
                 tempObject = {
-                    gameName: split[0],
+                    gameName: split[0].replace(/~/g, ""),
                     lastPlayed: split[1]
                 }
                 gameListRepo.push(tempObject)
