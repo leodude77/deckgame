@@ -15,6 +15,7 @@ shortcut.parseFile(filePath,
         var gameListPC = []
         var myobj
         for (myobj of obj['shortcuts']) {
+            console.log(myobj)
             mydate = new Date(myobj['LastPlayTime'])
             tempObject = {
                 gameName: myobj['AppName'],
