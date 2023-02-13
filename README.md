@@ -1,5 +1,6 @@
 # Games on deck
-Bright Memory: Infinite | Thu Jan 01 1970  
+Bright Memory | Mon Feb 13 2023  
+Bright Memory: Infinite | Mon Feb 13 2023  
 Drakengard 3 | Tue Feb 07 2023  
 God of War | Fri Feb 10 2023  
 Shin Megami Tensei III Nocturne HD Remaster | Thu Jan 26 2023  
