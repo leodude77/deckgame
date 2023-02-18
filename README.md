@@ -1,13 +1,14 @@
 # Games on deck
-Bright Memory | Tue Feb 14 2023  
+Bright Memory | Thu Feb 16 2023  
 Bright Memory: Infinite | Mon Feb 13 2023  
-Darksiders Warmastered Edition | Tue Feb 14 2023  
-Drakengard 3 | Tue Feb 07 2023  
-God of War | Mon Feb 13 2023  
+Darksiders Warmastered Edition | Thu Feb 16 2023  
+Drakengard 3 | Thu Feb 16 2023  
 Shin Megami Tensei III Nocturne HD Remaster | Thu Jan 26 2023  
 Shin Megami Tensei V | Sat Jan 28 2023  
 Shin Megami Tensei V (Ryujinx) | Sat Jan 28 2023  
 Streets of Rage 4 | Tue Feb 07 2023  
+undefined | Invalid Date  
+~~God of War~~ | Mon Feb 13 2023  
 ~~Ys: The Oath in Felghana~~ | Thu Jan 01 1970  
 ~~Harry Potter and the Chamber of Secrets~~ | Wed Jan 11 2023  
 ~~Drakengard~~ | Sun Jan 22 2023  
