@@ -1,9 +1,9 @@
 # Games on deck
-Bright Memory | Thu Feb 16 2023  
+Bright Memory | Sat Feb 18 2023  
 Bright Memory: Infinite | Mon Feb 13 2023  
 Darksiders Warmastered Edition | Thu Feb 16 2023  
 Drakengard 3 | Thu Feb 16 2023  
-God of War II | Sat Feb 18 2023  
+God of War II | Sun Feb 19 2023  
 Shin Megami Tensei III Nocturne HD Remaster | Thu Jan 26 2023  
 Shin Megami Tensei V | Sat Jan 28 2023  
 Shin Megami Tensei V (Ryujinx) | Sat Jan 28 2023  
