@@ -18,7 +18,7 @@ shortcut.parseFile(filePath,
             console.log(myobj)
             mydate = new Date(myobj['LastPlayTime'])
             tempObject = {
-                gameName: myobj['AppName'],
+                gameName: myobj.appname,
                 lastPlayed: mydate.toDateString()
             }
 

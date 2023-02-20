@@ -1,13 +1,14 @@
 # Games on deck
-Bright Memory | Sat Feb 18 2023  
-Bright Memory: Infinite | Mon Feb 13 2023  
-Darksiders Warmastered Edition | Thu Feb 16 2023  
-Drakengard 3 | Thu Feb 16 2023  
-God of War II | Sun Feb 19 2023  
-Shin Megami Tensei III Nocturne HD Remaster | Thu Jan 26 2023  
-Shin Megami Tensei V | Sat Jan 28 2023  
-Shin Megami Tensei V (Ryujinx) | Sat Jan 28 2023  
-Streets of Rage 4 | Tue Feb 07 2023  
+Darksiders Warmastered Edition | Mon Feb 20 2023  
+FINAL FANTASY XIII | Mon Feb 20 2023  
+Streets of Rage 4 | Mon Feb 20 2023  
+~~Bright Memory~~ | Sat Feb 18 2023  
+~~Bright Memory: Infinite~~ | Mon Feb 13 2023  
+~~Drakengard 3~~ | Thu Feb 16 2023  
+~~God of War II~~ | Sun Feb 19 2023  
+~~Shin Megami Tensei III Nocturne HD Remaster~~ | Thu Jan 26 2023  
+~~Shin Megami Tensei V~~ | Sat Jan 28 2023  
+~~Shin Megami Tensei V (Ryujinx)~~ | Sat Jan 28 2023  
 ~~undefined~~ | Invalid Date  
 ~~God of War~~ | Mon Feb 13 2023  
 ~~Ys: The Oath in Felghana~~ | Thu Jan 01 1970  
@@ -19,7 +20,6 @@ Streets of Rage 4 | Tue Feb 07 2023
 ~~Celeste~~ | Thu Jan 01 1970  
 ~~CrossCode~~ | Thu Jan 01 1970  
 ~~Dragon's Dogma: Dark Arisen~~ | Thu Jan 01 1970  
-~~FINAL FANTASY XIII~~ | Thu Jan 01 1970  
 ~~NieR Replicant ver.1.22474487139...~~ | Mon Feb 06 2023  
 ~~Raji: An Ancient Epic~~ | Thu Jan 01 1970  
 ~~SCARLET NEXUS~~ | Tue Feb 07 2023  
