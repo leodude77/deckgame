@@ -1,7 +1,10 @@
 # Games on deck
-Darksiders Warmastered Edition | Mon Feb 20 2023  
-FINAL FANTASY XIII | Mon Feb 20 2023  
-Streets of Rage 4 | Mon Feb 20 2023  
+Atomic Heart | Wed Feb 22 2023  
+Digimon World: Next Order | Wed Feb 22 2023  
+FINAL FANTASY XIII | Tue Feb 21 2023  
+OVE : The Sword of Liberation | Wed Feb 22 2023  
+Streets of Rage 4 | Thu Jan 01 1970  
+~~Darksiders Warmastered Edition~~ | Mon Feb 20 2023  
 ~~Bright Memory~~ | Sat Feb 18 2023  
 ~~Bright Memory: Infinite~~ | Mon Feb 13 2023  
 ~~Drakengard 3~~ | Thu Feb 16 2023  
