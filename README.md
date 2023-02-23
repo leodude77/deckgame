@@ -1,6 +1,7 @@
 # Games on deck
-Atomic Heart | Wed Feb 22 2023  
+Atomic Heart | Thu Feb 23 2023  
 Digimon World: Next Order | Wed Feb 22 2023  
+Hogwarts Legacy | Thu Feb 23 2023  
 OVE : The Sword of Liberation | Wed Feb 22 2023  
 Streets of Rage 4 | Thu Jan 01 1970  
 ~~FINAL FANTASY XIII~~ | Tue Feb 21 2023  
