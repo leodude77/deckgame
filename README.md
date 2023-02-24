@@ -1,5 +1,7 @@
 # Games on deck
 Streets of Rage 4 | Thu Jan 01 1970  
+Ys: The Oath in Felghana | Fri Feb 24 2023  
+Ys: The Oath in Felghana | Thu Jan 01 1970  
 ~~Digimon World: Next Order~~ | Wed Feb 22 2023  
 ~~Atomic Heart~~ | Thu Feb 23 2023  
 ~~Hogwarts Legacy~~ | Thu Feb 23 2023  
@@ -15,7 +17,6 @@ Streets of Rage 4 | Thu Jan 01 1970
 ~~Shin Megami Tensei V (Ryujinx)~~ | Sat Jan 28 2023  
 ~~undefined~~ | Invalid Date  
 ~~God of War~~ | Mon Feb 13 2023  
-~~Ys: The Oath in Felghana~~ | Thu Jan 01 1970  
 ~~Harry Potter and the Chamber of Secrets~~ | Wed Jan 11 2023  
 ~~Drakengard~~ | Sun Jan 22 2023  
 ~~Fire Emblem Engage~~ | Tue Feb 07 2023  
