@@ -1,8 +1,7 @@
 # Games on deck
 Asterigos: Curse of the Stars | Sun Feb 26 2023  
 Streets of Rage 4 | Thu Jan 01 1970  
-Ys: The Oath in Felghana | Sat Feb 25 2023  
-Ys: The Oath in Felghana | Thu Jan 01 1970  
+Ys: The Oath in Felghana | Sun Feb 26 2023  
 ~~Digimon World: Next Order~~ | Wed Feb 22 2023  
 ~~Atomic Heart~~ | Thu Feb 23 2023  
 ~~Hogwarts Legacy~~ | Thu Feb 23 2023  
