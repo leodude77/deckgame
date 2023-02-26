@@ -99,5 +99,5 @@ function displayEntries() {
         });
 }
 
-displayEntries()
-// UpdateMDFile()
+// displayEntries()
+UpdateMDFile()
