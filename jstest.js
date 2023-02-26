@@ -19,7 +19,7 @@ function UpdateMDFile() {
                 console.log(myobj)
                 mydate = new Date(myobj['LastPlayTime'])
                 tempObject = {
-                    gameName: myobj.appname,
+                    gameName: myobj.AppName,
                     lastPlayed: mydate.toDateString()
                 }
 
@@ -83,7 +83,7 @@ function displayEntries() {
                 console.log(myobj)
                 mydate = new Date(myobj['LastPlayTime'])
                 tempObject = {
-                    gameName: myobj.appname,
+                    gameName: myobj.AppName,
                     lastPlayed: mydate.toDateString()
                 }
 
@@ -99,5 +99,5 @@ function displayEntries() {
         });
 }
 
-// displayEntries()
-UpdateMDFile()
+displayEntries()
+// UpdateMDFile()
