@@ -1,8 +1,9 @@
 # Games on deck
-Asterigos: Curse of the Stars | Fri Mar 03 2023  
-Atelier Ryza: Ever Darkness & the Secret Hideout | Thu Jan 01 1970  
-Final Fantasy VII Remake | Thu Mar 02 2023  
-Ys: The Oath in Felghana | Thu Jan 01 1970  
+Ys Origin | Wed Mar 08 2023  
+~~Asterigos: Curse of the Stars~~ | Fri Mar 03 2023  
+~~Atelier Ryza: Ever Darkness & the Secret Hideout~~ | Thu Jan 01 1970  
+~~Final Fantasy VII Remake~~ | Thu Mar 02 2023  
+~~Ys: The Oath in Felghana~~ | Thu Jan 01 1970  
 ~~Streets of Rage 4~~ | Thu Jan 01 1970  
 ~~Digimon World: Next Order~~ | Wed Feb 22 2023  
 ~~Atomic Heart~~ | Thu Feb 23 2023  
