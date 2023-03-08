@@ -19,8 +19,8 @@ function UpdateMDFile() {
                 console.log(myobj)
                 mydate = new Date(myobj['LastPlayTime'])
                 tempObject = {
-                    gameName: myobj.AppName,
-                    lastPlayed: mydate.toDateString()
+                    gameName: myobj.AppName ? myobj.AppName : myobj.appname,
+                    lastPlayed: mydate.toDateString() ? mydate.toDateString() : "N/A"
                 }
 
                 gameListPC.push(tempObject)
