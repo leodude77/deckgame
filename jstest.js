@@ -3,6 +3,8 @@ var fs = require('fs');
 
 var filePath = `/home/deck/.steam/steam/userdata/${process.argv[2]}/config/shortcuts.vdf`;
 
+
+
 function UpdateMDFile() {
     shortcut.parseFile(filePath,
         { autoConvertArrays: true, autoConvertBooleans: true, dateProperties: ['LastPlayTime'] },
@@ -100,4 +102,6 @@ function displayEntries() {
 }
 
 // displayEntries()
-UpdateMDFile()
+// UpdateMDFile()
+
+console.log(platform.os)
