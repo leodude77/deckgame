@@ -3,6 +3,7 @@ FIFA 19 | Thu Jan 01 1970
 Final Fantasy VII Remake Intergrade | Fri Mar 31 2023  
 The Last of Us Part I | Fri Mar 31 2023  
 Valkyrie Elysium | Fri Mar 31 2023  
+Voice of Cards: The Forsaken Maiden | Invalid Date  
 Wo Long: Fallen Dynasty | Sat Apr 01 2023  
 Ys Origin | Sat Apr 01 2023  
 ~~Moonlight~~ | Sat Mar 11 2023  
