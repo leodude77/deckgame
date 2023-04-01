@@ -3,7 +3,8 @@ var fs = require('fs');
 
 var filePath = `/home/deck/.steam/steam/userdata/${process.argv[2]}/config/shortcuts.vdf`;
 
-
+if (process.platform === "win32" )
+    filePath = `C:\\Program Files (x86)\\Steam\\userdata\\${process.argv[2]}\\config\\shortcuts.vdf`;
 
 function UpdateMDFile() {
     shortcut.parseFile(filePath,
@@ -102,6 +103,4 @@ function displayEntries() {
 }
 
 // displayEntries()
-// UpdateMDFile()
-
-console.log(platform.os)
+UpdateMDFile()
