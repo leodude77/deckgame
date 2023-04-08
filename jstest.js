@@ -2,10 +2,14 @@ var shortcut = require('steam-shortcut-editor');
 var fs = require('fs');
 
 var filePath = `/home/deck/.steam/steam/userdata/${process.argv[2]}/config/shortcuts.vdf`;
+var customPath = process.argv[3]
 
 if (process.platform === "win32" )
     filePath = `C:\\Program Files (x86)\\Steam\\userdata\\${process.argv[2]}\\config\\shortcuts.vdf`;
-
+    if(customPath != undefined){
+        filePath = `${customPath}\\userdata\\${process.argv[2]}\\config\\shortcuts.vdf`
+    }
+    
 function UpdateMDFile() {
     shortcut.parseFile(filePath,
         { autoConvertArrays: true, autoConvertBooleans: true, dateProperties: ['LastPlayTime'] },
