@@ -1,5 +1,0 @@
-bottles  
-filelight  
-flatseal  
-protontricks  
-protonup-qt  

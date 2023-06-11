@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@node-steam/vdf": "^2.2.0",
+    "node-fetch": "^2.6.7",
     "steam-shortcut-editor": "^3.1.3"
   }
 }
