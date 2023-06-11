@@ -18,7 +18,9 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
         mydate = new Date(myobj["LastPlayTime"]);
         tempObject = {
           gameName: myobj.AppName ? myobj.AppName : myobj.appname,
-          lastPlayed: mydate.toDateString() ? mydate.toDateString() : "N/A",
+          lastPlayed: mydate.toDateString()
+            ? mydate.toISOString().split("T")[0]
+            : "N/A",
         };
 
         gameListPC.push(tempObject);
