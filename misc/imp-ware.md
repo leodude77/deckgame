@@ -4,18 +4,18 @@
 - emudeck
 - filelight
 - flatseal
+- lutris
 - protontricks
 - protonup-qt
-- qBittorent
-- lutris
-- Steam Rom manager
-- Syncthing
+- qbittorent
+- steam rom manager
+- syncthing
 
 # Useful Decky Plugins for Deck
 
+- CSS Loader
 - DeckMTP
 - Decky Cloud Save
-- CSS Loader
-- SteamGridDB
 - PowerTools
 - QuickLaunch
+- SteamGridDB
