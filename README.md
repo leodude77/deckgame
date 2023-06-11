@@ -1,11 +1,17 @@
 # Games on deck
-FIFA 19 | Invalid Date  
-GOD EATER 3 | Invalid Date  
+FIFA 19 | 1970-01-01  
+GOD EATER 3 | 1970-01-01  
+Shin Megami Tensei V | 2023-05-26  
+The Legend of Zelda: Tears of the Kingdom | 1970-01-01  
+Wo Long: Fallen Dynasty | 1970-01-01  
+Steamworks Common Redistributables | 2023-06-11  
+Street Fighter™ 6 | 2023-06-11  
+Dead Space | 2023-06-11  
+Lies of P Demo | 2023-06-11  
 ~~Final Fantasy VII Remake Intergrade~~ | Fri Mar 31 2023  
 ~~The Last of Us Part I~~ | Fri Mar 31 2023  
 ~~Valkyrie Elysium~~ | Fri Mar 31 2023  
 ~~Voice of Cards: The Forsaken Maiden~~ | Invalid Date  
-~~Wo Long: Fallen Dynasty~~ | Sat Apr 01 2023  
 ~~Ys Origin~~ | Sat Apr 01 2023  
 ~~Moonlight~~ | Sat Mar 11 2023  
 ~~OCTOPATH TRAVELER II~~ | Thu Jan 01 1970  
@@ -25,7 +31,6 @@ GOD EATER 3 | Invalid Date
 ~~Drakengard 3~~ | Thu Feb 16 2023  
 ~~God of War II~~ | Sun Feb 19 2023  
 ~~Shin Megami Tensei III Nocturne HD Remaster~~ | Thu Jan 26 2023  
-~~Shin Megami Tensei V~~ | Sat Jan 28 2023  
 ~~Shin Megami Tensei V (Ryujinx)~~ | Sat Jan 28 2023  
 ~~undefined~~ | Invalid Date  
 ~~God of War~~ | Mon Feb 13 2023  
