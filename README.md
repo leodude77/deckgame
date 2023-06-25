@@ -1,13 +1,16 @@
 # Games on deck
-FIFA 19 | 1970-01-01  
-GOD EATER 3 | 1970-01-01  
-Shin Megami Tensei V | 2023-05-26  
-The Legend of Zelda: Tears of the Kingdom | 1970-01-01  
-Wo Long: Fallen Dynasty | 1970-01-01  
-Steamworks Common Redistributables | 2023-06-11  
-Street Fighter™ 6 | 2023-06-11  
-Dead Space | 2023-06-11  
-Lies of P Demo | 2023-06-11  
+FIFA 19 | 2023-06-25  
+Shin Megami Tensei V | 2023-06-25  
+Soulstice | 2023-06-25  
+Super Mario Odyssey | 2023-06-25  
+The Legend of Zelda: Tears of the Kingdom | 2023-06-25  
+Touhou Luna Nights | 2023-06-25  
+~~GOD EATER 3~~ | 1970-01-01  
+~~Wo Long: Fallen Dynasty~~ | 1970-01-01  
+~~Steamworks Common Redistributables~~ | 2023-06-11  
+~~Street Fighter™ 6~~ | 2023-06-11  
+~~Dead Space~~ | 2023-06-11  
+~~Lies of P Demo~~ | 2023-06-11  
 ~~Final Fantasy VII Remake Intergrade~~ | Fri Mar 31 2023  
 ~~The Last of Us Part I~~ | Fri Mar 31 2023  
 ~~Valkyrie Elysium~~ | Fri Mar 31 2023  
