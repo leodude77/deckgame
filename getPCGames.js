@@ -14,7 +14,7 @@ function UpdateMDFile(dir) {
   //Write games currently present
   let listitem;
   for (listitem of gameListPC) {
-    logger2.write(`\n${listitem}`);
+    logger2.write(`\n${listitem}  `);
   }
 
   //Get list of games from readme repo
@@ -34,7 +34,7 @@ function UpdateMDFile(dir) {
       listitem == ""
     )
       continue;
-    logger2.write(`\n~~${listitem}~~`);
+    logger2.write(`\n~~${listitem}~~  `);
   }
 }
 
