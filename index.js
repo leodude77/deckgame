@@ -14,7 +14,7 @@ if (customPath != undefined) {
 }
 
 async function main() {
-  let list = await getLibraryFolders.main();
+  let list = await getLibraryFolders.main(customPath);
   updateMDFile.UpdateMDFile(fs, shortcut, filePath, list);
   // displayEntriesFromShortcutsVDF.displayEntriesFromShortcutsVDF(
   //   shortcut,

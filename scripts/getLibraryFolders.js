@@ -5,8 +5,8 @@ var fetch = require("node-fetch");
 var steamAppList,
   localAppIds = [];
 
-function getLocalAppIds() {
-  libraryfoldersPath = `E:\\Games\\steam\\steamapps\\libraryfolders.vdf`;
+function getLocalAppIds(customPath) {
+  libraryfoldersPath = customPath + `\\steamapps\\libraryfolders.vdf`;
   var text = fs.readFileSync(libraryfoldersPath).toString("utf-8");
   let vdf_local_data = VDF.parse(text).libraryfolders[0].apps;
   for (var i in vdf_local_data) localAppIds.push(parseInt(i));
@@ -19,8 +19,8 @@ async function steamGetAppList() {
   steamAppList = jsonData.applist.apps;
 }
 
-async function initialize() {
-  getLocalAppIds();
+async function initialize(customPath) {
+  getLocalAppIds(customPath);
   await steamGetAppList();
 }
 
@@ -31,9 +31,9 @@ function getSteamAppName(id) {
   return steamApp;
 }
 
-async function main() {
+async function main(customPath) {
   let returnResult = [];
-  await initialize();
+  await initialize(customPath);
   for (var i in localAppIds)
     returnResult.push(getSteamAppName(localAppIds[i]).name);
   return returnResult;
