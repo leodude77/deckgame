@@ -1,13 +1,24 @@
 # Games on deck
-FIFA 19 | 2023-06-25  
-Shin Megami Tensei V | 2023-06-25  
-Soulstice | 2023-06-25  
-Super Mario Odyssey | 2023-06-25  
-The Legend of Zelda: Tears of the Kingdom | 2023-06-25  
-Touhou Luna Nights | 2023-06-25  
+Ace Combat 7: Skies Unknown | 1970-01-01  
+Armored Core VI: Fires of Rubicon | 1970-01-01  
+Arto | 1970-01-01  
+Cyberpunk 2077 | 1970-01-01  
+Dragon Age™ Inquisition | 1970-01-01  
+Hard West 2 | 1970-01-01  
+Kingdoms of Amalur: Reckoning | 1970-01-01  
+Soulstice | 2023-10-22  
+Tales of Arise | 1970-01-01  
+The Lords of the Fallen | 2023-10-21  
+Ys Origin | 1970-01-01  
+Dota 2 | 2023-10-22  
+Steamworks Common Redistributables | 2023-10-22  
+~~FIFA 19~~ | 2023-06-25  
+~~Shin Megami Tensei V~~ | 2023-06-25  
+~~Super Mario Odyssey~~ | 2023-06-25  
+~~The Legend of Zelda: Tears of the Kingdom~~ | 2023-06-25  
+~~Touhou Luna Nights~~ | 2023-06-25  
 ~~GOD EATER 3~~ | 1970-01-01  
 ~~Wo Long: Fallen Dynasty~~ | 1970-01-01  
-~~Steamworks Common Redistributables~~ | 2023-06-11  
 ~~Street Fighter™ 6~~ | 2023-06-11  
 ~~Dead Space~~ | 2023-06-11  
 ~~Lies of P Demo~~ | 2023-06-11  
@@ -15,7 +26,6 @@ Touhou Luna Nights | 2023-06-25
 ~~The Last of Us Part I~~ | Fri Mar 31 2023  
 ~~Valkyrie Elysium~~ | Fri Mar 31 2023  
 ~~Voice of Cards: The Forsaken Maiden~~ | Invalid Date  
-~~Ys Origin~~ | Sat Apr 01 2023  
 ~~Moonlight~~ | Sat Mar 11 2023  
 ~~OCTOPATH TRAVELER II~~ | Thu Jan 01 1970  
 ~~Asterigos: Curse of the Stars~~ | Fri Mar 03 2023  
@@ -48,7 +58,6 @@ Touhou Luna Nights | 2023-06-25
 ~~NieR Replicant ver.1.22474487139...~~ | Mon Feb 06 2023  
 ~~Raji: An Ancient Epic~~ | Thu Jan 01 1970  
 ~~SCARLET NEXUS~~ | Tue Feb 07 2023  
-~~Tales of Arise~~ | Mon Feb 06 2023  
 ~~Ys VIII: Lacrimosa of Dana~~ | Thu Jan 01 1970  
 ~~MONSTER HUNTER RISE~~ | Wed Feb 08 2023  
 ~~Mario Strikers: Battle League~~ | Thu Jan 01 1970  
