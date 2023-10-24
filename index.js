@@ -12,6 +12,9 @@ if (process.platform === "win32")
 if (customPath != undefined) {
   filePath = `${customPath}\\userdata\\${process.argv[2]}\\config\\shortcuts.vdf`;
 }
+else {
+  customPath = `/home/deck/.steam/steam`
+}
 
 async function main() {
   let list = await getLibraryFolders.main(customPath);
