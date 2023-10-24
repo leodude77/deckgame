@@ -9,11 +9,11 @@ Kingdoms of Amalur: Re-Reckoning | 1970-01-01
 NieR Replicant ver.1.22474487139... | 1970-01-01  
 Persona 5 Royal | 1970-01-01  
 SCARLET NEXUS | 2023-10-22  
-Sea of Stars | 1970-01-01  
 Shin Megami Tensei V | 2023-10-17  
 Super Mario Bros. Wonder | 2023-10-21  
 The Lords of the Fallen | 2023-10-22  
 Ys Origin | 1970-01-01  
+~~Sea of Stars~~ | 1970-01-01  
 ~~Ace Combat 7: Skies Unknown~~ | 1970-01-01  
 ~~Armored Core VI: Fires of Rubicon~~ | 1970-01-01  
 ~~Arto~~ | 1970-01-01  
