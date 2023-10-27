@@ -1,32 +1,36 @@
 # Games on deck
-Ace Combat 7: Skies Unknown | 1970-01-01  
-Armored Core VI: Fires of Rubicon | 1970-01-01  
-Arto | 1970-01-01  
+ANNO:Mutationem | 1970-01-01  
+Bayonetta | 1970-01-01  
 BlazBlue Entropy Effect | 2023-10-24  
-Cyberpunk 2077 | 1970-01-01  
-Dragon Age™ Inquisition | 1970-01-01  
-Hard West 2 | 1970-01-01  
-Kingdoms of Amalur: Reckoning | 1970-01-01  
-Middle-earth: Shadow of Mordor | 1970-01-01  
-Soulstice | 2023-10-22  
-Tales of Arise | 2023-10-22  
-The Lords of the Fallen | 2023-10-24  
+BloodRayne 2: Terminal Cut | 1970-01-01  
+Dragon's Dogma: Dark Arisen | 1970-01-01  
+Fate/Samurai Remnant | 1970-01-01  
+Fire Emblem Engage | 2023-10-21  
+Kingdoms of Amalur: Re-Reckoning | 1970-01-01  
+NieR Replicant ver.1.22474487139... | 1970-01-01  
+Persona 5 Royal | 1970-01-01  
+SCARLET NEXUS | 2023-10-22  
+Sea of Stars | 2023-10-24  
+Shin Megami Tensei V | 2023-10-17  
+Super Mario Bros. Wonder | 2023-10-21  
+The Legend of Heroes: Trails from Zero | 2023-10-27  
+The Legend of Heroes: Trails of Cold Steel | 1970-01-01  
+The Legend of Heroes: Trails to Azure | 1970-01-01  
+The Lords of the Fallen | 2023-10-22  
 Ys Origin | 1970-01-01  
-Dota 2 | 2023-10-24  
-Steamworks Common Redistributables | 2023-10-24  
-~~ANNO:Mutationem~~ | 1970-01-01  
-~~Bayonetta~~ | 1970-01-01  
-~~BloodRayne 2: Terminal Cut~~ | 1970-01-01  
+~~Ace Combat 7: Skies Unknown~~ | 1970-01-01  
+~~Armored Core VI: Fires of Rubicon~~ | 1970-01-01  
+~~Arto~~ | 1970-01-01  
+~~Cyberpunk 2077~~ | 1970-01-01  
+~~Dragon Age™ Inquisition~~ | 1970-01-01  
+~~Hard West 2~~ | 1970-01-01  
+~~Kingdoms of Amalur: Reckoning~~ | 1970-01-01  
+~~Middle-earth: Shadow of Mordor~~ | 1970-01-01  
+~~Soulstice~~ | 2023-10-22  
+~~Tales of Arise~~ | 2023-10-22  
+~~Dota 2~~ | 2023-10-24  
+~~Steamworks Common Redistributables~~ | 2023-10-24  
 ~~Dragon's Dogma~~ | 1970-01-01  
-~~Fate/Samurai Remnant~~ | 1970-01-01  
-~~Fire Emblem Engage~~ | 2023-10-21  
-~~Kingdoms of Amalur: Re-Reckoning~~ | 1970-01-01  
-~~NieR Replicant ver.1.22474487139...~~ | 1970-01-01  
-~~Persona 5 Royal~~ | 1970-01-01  
-~~SCARLET NEXUS~~ | 2023-10-22  
-~~Shin Megami Tensei V~~ | 2023-10-17  
-~~Super Mario Bros. Wonder~~ | 2023-10-21  
-~~Sea of Stars~~ | 1970-01-01  
 ~~FIFA 19~~ | 2023-06-25  
 ~~Super Mario Odyssey~~ | 2023-06-25  
 ~~The Legend of Zelda: Tears of the Kingdom~~ | 2023-06-25  
@@ -66,7 +70,6 @@ Steamworks Common Redistributables | 2023-10-24
 ~~BLACKTAIL~~ | Mon Feb 06 2023  
 ~~Celeste~~ | Thu Jan 01 1970  
 ~~CrossCode~~ | Thu Jan 01 1970  
-~~Dragon's Dogma: Dark Arisen~~ | Thu Jan 01 1970  
 ~~Raji: An Ancient Epic~~ | Thu Jan 01 1970  
 ~~Ys VIII: Lacrimosa of Dana~~ | Thu Jan 01 1970  
 ~~MONSTER HUNTER RISE~~ | Wed Feb 08 2023  
