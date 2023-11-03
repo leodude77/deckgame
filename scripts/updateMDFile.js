@@ -8,7 +8,7 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
     },
     function (err, obj, inputBuffer) {
       if (err) {
-        console.log("failed to read " + filePath);
+        console.log("failed to read " + filePath + err);
         return;
       }
 

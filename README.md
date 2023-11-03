@@ -3,9 +3,12 @@ Cyberpunk 2077 | 1970-01-01
 Ghostrunner 2 | 2023-10-28  
 Soulstice | 2023-10-22  
 Tales of Arise | 2023-10-22  
-Ys Origin | 2023-10-29  
-Steamworks Common Redistributables | 2023-10-29  
-ELDEN RING | 2023-10-29  
+Tales of Berseria | 2023-11-01  
+Ys SEVEN | 2023-11-03  
+Dota 2 | 2023-11-03  
+ELDEN RING | 2023-11-03  
+~~Ys Origin~~ | 2023-10-29  
+~~Steamworks Common Redistributables~~ | 2023-10-29  
 ~~ANNO:Mutationem~~ | 1970-01-01  
 ~~Bayonetta~~ | 1970-01-01  
 ~~BlazBlue Entropy Effect~~ | 2023-10-24  
@@ -31,7 +34,6 @@ ELDEN RING | 2023-10-29
 ~~Hard West 2~~ | 1970-01-01  
 ~~Kingdoms of Amalur: Reckoning~~ | 1970-01-01  
 ~~Middle-earth: Shadow of Mordor~~ | 1970-01-01  
-~~Dota 2~~ | 2023-10-24  
 ~~Dragon's Dogma~~ | 1970-01-01  
 ~~FIFA 19~~ | 2023-06-25  
 ~~Super Mario Odyssey~~ | 2023-06-25  
