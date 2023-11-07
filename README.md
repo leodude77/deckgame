@@ -1,14 +1,16 @@
 # Games on deck
-Crysis Remastered | 2023-11-04  
-Cyberpunk 2077 | 1970-01-01  
-Ghostrunner 2 | 2023-10-28  
-Soulstice | 2023-10-22  
-Tales of Arise | 2023-10-22  
-Tales of Berseria | 2023-11-01  
-Ys SEVEN | 2023-11-03  
-Dota 2 | 2023-11-04  
-Steamworks Common Redistributables | 2023-11-04  
-ELDEN RING | 2023-11-04  
+Blazblue Entropy Effect | 2023-11-06  
+Soulstice | 2023-11-04  
+Tales of Arise | 2023-11-04  
+Tales of Berseria | 2023-11-04  
+Ys Memories of Celceta | 2023-11-07  
+Steamworks Common Redistributables | 2023-11-07  
+~~Crysis Remastered~~ | 2023-11-04  
+~~Cyberpunk 2077~~ | 1970-01-01  
+~~Ghostrunner 2~~ | 2023-10-28  
+~~Ys SEVEN~~ | 2023-11-03  
+~~Dota 2~~ | 2023-11-04  
+~~ELDEN RING~~ | 2023-11-04  
 ~~Ys Origin~~ | 2023-10-29  
 ~~ANNO:Mutationem~~ | 1970-01-01  
 ~~Bayonetta~~ | 1970-01-01  
