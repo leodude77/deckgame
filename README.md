@@ -1,10 +1,11 @@
 # Games on deck
 Blazblue Entropy Effect | 2023-11-06  
-Soulstice | 2023-11-04  
+QWxkZWFsUmF5cw==LD | 2023-11-09  
+Soulstice | 2023-11-09  
 Tales of Arise | 2023-11-04  
-Tales of Berseria | 2023-11-04  
+Tales of Berseria | 2023-11-07  
 Ys Memories of Celceta | 2023-11-07  
-Steamworks Common Redistributables | 2023-11-07  
+Steamworks Common Redistributables | 2023-11-09  
 ~~Crysis Remastered~~ | 2023-11-04  
 ~~Cyberpunk 2077~~ | 1970-01-01  
 ~~Ghostrunner 2~~ | 2023-10-28  
