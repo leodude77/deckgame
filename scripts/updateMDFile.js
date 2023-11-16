@@ -60,6 +60,9 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
 
       //Write non-steam games retrieved from shortcut vdf file
       for (listitem of gameListPC) {
+        if (listitem.lastPlayed == '1970-01-01') {
+          listitem.lastPlayed = new Date().toISOString().split("T")[0]
+        }
         logger2.write(`\n| ${listitem.gameName} | ${listitem.lastPlayed} |`);
       }
 
