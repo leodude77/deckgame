@@ -8,19 +8,19 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
     },
     function (err, obj, inputBuffer) {
       if (err) {
-        console.log("failed to read " + filePath + err);
+        console.log("failed to read " + filePath + err.stack);
         return;
       }
 
       var gameListPC = [];
       var myobj;
       for (myobj of obj["shortcuts"]) {
-        mydate = new Date(myobj["LastPlayTime"]);
+        if (myobj["LastPlayTime"] == undefined) mydate = new Date(null);
+        else mydate = new Date(myobj["LastPlayTime"]);
+
         tempObject = {
           gameName: myobj.AppName ? myobj.AppName : myobj.appname,
-          lastPlayed: mydate.toDateString()
-            ? mydate.toISOString().split("T")[0]
-            : "N/A",
+          lastPlayed: mydate.toISOString().split("T")[0],
         };
 
         gameListPC.push(tempObject);
@@ -60,8 +60,8 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
 
       //Write non-steam games retrieved from shortcut vdf file
       for (listitem of gameListPC) {
-        if (listitem.lastPlayed == '1970-01-01') {
-          listitem.lastPlayed = new Date().toISOString().split("T")[0]
+        if (listitem.lastPlayed == "1970-01-01") {
+          listitem.lastPlayed = new Date().toISOString().split("T")[0];
         }
         logger2.write(`\n| ${listitem.gameName} | ${listitem.lastPlayed} |`);
       }
@@ -82,7 +82,9 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
           listitem.gameName == ":---"
         )
           continue;
-        logger2.write(`\n| ~~${listitem.gameName}~~ | ${listitem.lastPlayed} |`);
+        logger2.write(
+          `\n| ~~${listitem.gameName}~~ | ${listitem.lastPlayed} |`
+        );
       }
     }
   );
