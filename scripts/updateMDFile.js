@@ -35,11 +35,11 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
         .toString()
         .split("\n")
         .forEach(function (line) {
-          let split = line.trim().split(" | ");
-          if (split[0] != undefined) {
+          let split = line.trim().split("|");
+          if (split[1] != undefined) {
             tempObject = {
-              gameName: split[0].replace(/~/g, ""),
-              lastPlayed: split[1],
+              gameName: split[1].trim().replace(/~/g, ""),
+              lastPlayed: split[2].trim(),
             };
             gameListRepo.push(tempObject);
           }
@@ -55,16 +55,21 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
 
       var logger2 = fs.createWriteStream("README.md");
       logger2.write("# Games on deck");
+      logger2.write("\n| Name | Last Played Date |");
+      logger2.write("\n| :--- | :---: |");
 
       //Write non-steam games retrieved from shortcut vdf file
       for (listitem of gameListPC) {
-        logger2.write(`\n${listitem.gameName} | ${listitem.lastPlayed}  `);
+        if (listitem.lastPlayed == '1970-01-01') {
+          listitem.lastPlayed = new Date().toISOString().split("T")[0]
+        }
+        logger2.write(`\n| ${listitem.gameName} | ${listitem.lastPlayed} |`);
       }
 
       // Write installed steam games present in local
       for (listitem of localActualSteamAppList) {
         logger2.write(
-          `\n${listitem} | ${new Date().toISOString().split("T")[0]}  `
+          `\n| ${listitem} | ${new Date().toISOString().split("T")[0]} |`
         );
       }
 
@@ -72,10 +77,12 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
       for (listitem of gameListRepo) {
         if (
           gameNameListPC.includes(listitem.gameName) ||
-          listitem.gameName == "# Games on deck"
+          listitem.gameName == "# Games on deck" ||
+          listitem.gameName == "Name" ||
+          listitem.gameName == ":---"
         )
           continue;
-        logger2.write(`\n~~${listitem.gameName}~~ | ${listitem.lastPlayed}  `);
+        logger2.write(`\n| ~~${listitem.gameName}~~ | ${listitem.lastPlayed} |`);
       }
     }
   );
