@@ -36,6 +36,7 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
         .split("\n")
         .forEach(function (line) {
           let split = line.trim().split(" | ");
+          console.log(split)
           if (split[0] != undefined) {
             tempObject = {
               gameName: split[0].replace(/~/g, ""),
@@ -55,6 +56,8 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
 
       var logger2 = fs.createWriteStream("README.md");
       logger2.write("# Games on deck");
+      logger2.write("\n| Name | Last Played Date |");
+      logger2.write("\n| :--- | :---: |");
 
       //Write non-steam games retrieved from shortcut vdf file
       for (listitem of gameListPC) {
@@ -64,7 +67,7 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
       // Write installed steam games present in local
       for (listitem of localActualSteamAppList) {
         logger2.write(
-          `\n${listitem} | ${new Date().toISOString().split("T")[0]}  `
+          `\n| ${listitem} | ${new Date().toISOString().split("T")[0]} |`
         );
       }
 
@@ -75,7 +78,7 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
           listitem.gameName == "# Games on deck"
         )
           continue;
-        logger2.write(`\n~~${listitem.gameName}~~ | ${listitem.lastPlayed}  `);
+        logger2.write(`\n| ~~${listitem.gameName}~~ | ${listitem.lastPlayed} |`);
       }
     }
   );
