@@ -1,51 +1,54 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| A Plague Tale: Requiem | 2023-11-16 |
-| DOOM Eternal | 2023-11-16 |
-| Dante's Inferno | 2023-11-16 |
-| Dark Souls III | 2023-11-16 |
-| Dead Cells | 2023-11-16 |
-| Death's Door | 2023-11-16 |
-| DmC Devil May Cry | 2023-11-16 |
-| Doom 2016 | 2023-11-16 |
-| En Garde! | 2023-11-16 |
-| Ender Lilies Quietus of the Knights | 2023-11-16 |
-| Fall Guys | 2023-11-16 |
-| Final Fantasy Type-0 HD | 2023-11-16 |
-| Final Fantasy XIV A Realm Reborn | 2023-11-16 |
-| Final Fantasy XV | 2023-11-16 |
-| Forza Horizon 5 | 2023-11-16 |
-| Furi | 2023-11-16 |
-| Ghostrunner | 2023-11-16 |
-| Ghostwire: Tokyo | 2023-11-16 |
-| Heavenly Sword | 2023-11-16 |
-| Hi-Fi RUSH | 2023-11-16 |
-| Horizon Zero Dawn | 2023-11-16 |
-| Marvel’s Spider-Man Remastered | 2023-11-16 |
-| Metal Gear Rising: Revengeance | 2023-11-16 |
-| MotoGP 20 | 2023-11-16 |
-| NEO: The World Ends with You | 2023-11-16 |
-| NieR:Automata™ | 2023-11-16 |
-| No Straight Roads | 2023-11-16 |
-| Ori and the Blind Forest: Definitive Edition | 2023-11-16 |
-| Persona 4 Golden | 2023-11-16 |
-| Prince of Persia Trilogy 3D [BLUS30754] | 2023-11-16 |
-| Red Dead Redemption 2 | 2023-11-16 |
-| Remnant II | 2023-11-16 |
-| Remnant: From the Ashes | 2023-11-16 |
-| Returnal | 2023-11-16 |
-| Rocket League | 2023-11-16 |
-| Sekiro: Shadows Die Twice | 2023-11-16 |
-| Star Wars Jedi: Fallen Order | 2023-11-16 |
-| Star Wars Jedi: Survivor | 2023-11-16 |
-| Touhou: New World | 2023-11-16 |
-| Turbo Overkill | 2023-11-16 |
-| Undertale | 2023-11-16 |
-| Venetica | 2023-11-16 |
-| Warframe | 2023-11-16 |
-| Yakuza 0 | 2023-11-16 |
-| ~~Baldur's Gate 3~~ | 2023-11-16 |
+| Aeterna Noctis | 2023-11-16 |
+| Baldur's Gate 3 | 2023-11-16 |
+| The Last Faith | 2023-11-16 |
+| Ys: Memories of Celceta | 2023-11-16 |
+| ~~A Plague Tale: Requiem~~ | 2023-11-16 |
+| ~~DOOM Eternal~~ | 2023-11-16 |
+| ~~Dante's Inferno~~ | 2023-11-16 |
+| ~~Dark Souls III~~ | 2023-11-16 |
+| ~~Dead Cells~~ | 2023-11-16 |
+| ~~Death's Door~~ | 2023-11-16 |
+| ~~DmC Devil May Cry~~ | 2023-11-16 |
+| ~~Doom 2016~~ | 2023-11-16 |
+| ~~En Garde!~~ | 2023-11-16 |
+| ~~Ender Lilies Quietus of the Knights~~ | 2023-11-16 |
+| ~~Fall Guys~~ | 2023-11-16 |
+| ~~Final Fantasy Type-0 HD~~ | 2023-11-16 |
+| ~~Final Fantasy XIV A Realm Reborn~~ | 2023-11-16 |
+| ~~Final Fantasy XV~~ | 2023-11-16 |
+| ~~Forza Horizon 5~~ | 2023-11-16 |
+| ~~Furi~~ | 2023-11-16 |
+| ~~Ghostrunner~~ | 2023-11-16 |
+| ~~Ghostwire: Tokyo~~ | 2023-11-16 |
+| ~~Heavenly Sword~~ | 2023-11-16 |
+| ~~Hi-Fi RUSH~~ | 2023-11-16 |
+| ~~Horizon Zero Dawn~~ | 2023-11-16 |
+| ~~Marvel’s Spider-Man Remastered~~ | 2023-11-16 |
+| ~~Metal Gear Rising: Revengeance~~ | 2023-11-16 |
+| ~~MotoGP 20~~ | 2023-11-16 |
+| ~~NEO: The World Ends with You~~ | 2023-11-16 |
+| ~~NieR:Automata™~~ | 2023-11-16 |
+| ~~No Straight Roads~~ | 2023-11-16 |
+| ~~Ori and the Blind Forest: Definitive Edition~~ | 2023-11-16 |
+| ~~Persona 4 Golden~~ | 2023-11-16 |
+| ~~Prince of Persia Trilogy 3D [BLUS30754]~~ | 2023-11-16 |
+| ~~Red Dead Redemption 2~~ | 2023-11-16 |
+| ~~Remnant II~~ | 2023-11-16 |
+| ~~Remnant: From the Ashes~~ | 2023-11-16 |
+| ~~Returnal~~ | 2023-11-16 |
+| ~~Rocket League~~ | 2023-11-16 |
+| ~~Sekiro: Shadows Die Twice~~ | 2023-11-16 |
+| ~~Star Wars Jedi: Fallen Order~~ | 2023-11-16 |
+| ~~Star Wars Jedi: Survivor~~ | 2023-11-16 |
+| ~~Touhou: New World~~ | 2023-11-16 |
+| ~~Turbo Overkill~~ | 2023-11-16 |
+| ~~Undertale~~ | 2023-11-16 |
+| ~~Venetica~~ | 2023-11-16 |
+| ~~Warframe~~ | 2023-11-16 |
+| ~~Yakuza 0~~ | 2023-11-16 |
 | ~~ENDER LILIES~~ | 2023-11-16 |
 | ~~Forza Horizon 3~~ | 2023-11-16 |
 | ~~Forza Horizon 4~~ | 2023-11-16 |
@@ -54,8 +57,6 @@
 | ~~Prince of Persia: The Forgotten Sands~~ | 2023-11-16 |
 | ~~Prince of Persia: The Two Thrones~~ | 2023-11-16 |
 | ~~Prince of Persia: Warrior Within~~ | 2023-11-16 |
-| ~~The Last Faith~~ | 2023-11-16 |
-| ~~Ys: Memories of Celceta~~ | 2023-11-16 |
 | ~~Blazblue Entropy Effect~~ | 2023-11-11 |
 | ~~STAR OCEAN THE SECOND STORY R~~ | 2023-11-12 |
 | ~~Soulstice~~ | 2023-11-09 |
