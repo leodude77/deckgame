@@ -79,7 +79,7 @@ function UpdateMDFile(fs, shortcut, filePath, localActualSteamAppList) {
           gameNameListPC.includes(listitem.gameName) ||
           listitem.gameName == "# Games on deck" ||
           listitem.gameName == "Name" ||
-          listitem.gameName == ":---"
+          listitem.gameName.includes(":---")
         )
           continue;
         logger2.write(
