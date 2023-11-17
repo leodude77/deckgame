@@ -1,10 +1,12 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Aeterna Noctis | 2023-11-16 |
-| Baldur's Gate 3 | 2023-11-16 |
-| The Last Faith | 2023-11-16 |
-| Ys: Memories of Celceta | 2023-11-16 |
+| Aeterna Noctis | 2023-11-17 |
+| Baldur's Gate 3 | 2023-11-17 |
+| Devil May Cry 4 | 2023-11-17 |
+| Devil May Cry 5 | 2023-11-17 |
+| The Last Faith | 2023-11-17 |
+| Ys: Memories of Celceta | 2023-11-17 |
 | ~~A Plague Tale: Requiem~~ | 2023-11-16 |
 | ~~DOOM Eternal~~ | 2023-11-16 |
 | ~~Dante's Inferno~~ | 2023-11-16 |
