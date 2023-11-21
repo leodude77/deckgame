@@ -1,10 +1,14 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Aeterna Noctis | 2023-11-17 |
-| Baldur's Gate 3 | 2023-11-17 |
-| The Last Faith | 2023-11-17 |
-| Ys: Memories of Celceta | 2023-11-17 |
+| Aeterna Noctis | 2023-11-21 |
+| Fire Emblem Engage | 2023-11-21 |
+| Persona 5 Royal | 2023-11-21 |
+| SANABI | 2023-11-21 |
+| Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
+| The Last Faith | 2023-11-21 |
+| Ys: Memories of Celceta | 2023-11-21 |
+| ~~Baldur's Gate 3~~ | 2023-11-17 |
 | ~~Devil May Cry 4~~ | 2023-11-17 |
 | ~~Devil May Cry 5~~ | 2023-11-17 |
 | ~~A Plague Tale: Requiem~~ | 2023-11-16 |
@@ -79,10 +83,8 @@
 | ~~BloodRayne 2: Terminal Cut~~ | 1970-01-01 |
 | ~~Dragon's Dogma: Dark Arisen~~ | 1970-01-01 |
 | ~~Fate/Samurai Remnant~~ | 1970-01-01 |
-| ~~Fire Emblem Engage~~ | 2023-10-21 |
 | ~~Kingdoms of Amalur: Re-Reckoning~~ | 1970-01-01 |
 | ~~NieR Replicant ver.1.22474487139...~~ | 1970-01-01 |
-| ~~Persona 5 Royal~~ | 1970-01-01 |
 | ~~SCARLET NEXUS~~ | 2023-10-22 |
 | ~~Sea of Stars~~ | 2023-10-24 |
 | ~~Shin Megami Tensei V~~ | 2023-10-17 |
@@ -129,7 +131,6 @@
 | ~~Bright Memory: Infinite~~ | Mon Feb 13 2023 |
 | ~~Drakengard 3~~ | Thu Feb 16 2023 |
 | ~~God of War II~~ | Sun Feb 19 2023 |
-| ~~Shin Megami Tensei III Nocturne HD Remaster~~ | Thu Jan 26 2023 |
 | ~~Shin Megami Tensei V (Ryujinx)~~ | Sat Jan 28 2023 |
 | ~~undefined~~ | Invalid Date |
 | ~~God of War~~ | Mon Feb 13 2023 |
