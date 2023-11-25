@@ -2,12 +2,15 @@
 | Name | Last Played Date |
 | :--- | :---: |
 | Aeterna Noctis | 2023-11-21 |
+| Afterimage | 2023-11-22 |
+| Cyberpunk 2077 | 2023-11-25 |
 | Fire Emblem Engage | 2023-11-21 |
+| Nocturnal | 2023-11-25 |
 | Persona 5 Royal | 2023-11-21 |
 | SANABI | 2023-11-21 |
 | Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
 | The Last Faith | 2023-11-21 |
-| Ys: Memories of Celceta | 2023-11-21 |
+| Ys: Memories of Celceta | 2023-11-24 |
 | ~~Baldur's Gate 3~~ | 2023-11-17 |
 | ~~Devil May Cry 4~~ | 2023-11-17 |
 | ~~Devil May Cry 5~~ | 2023-11-17 |
@@ -71,7 +74,6 @@
 | ~~Steamworks Common Redistributables~~ | 2023-11-12 |
 | ~~QWxkZWFsUmF5cw==LD~~ | 2023-11-09 |
 | ~~Crysis Remastered~~ | 2023-11-04 |
-| ~~Cyberpunk 2077~~ | 1970-01-01 |
 | ~~Ghostrunner 2~~ | 2023-10-28 |
 | ~~Ys SEVEN~~ | 2023-11-03 |
 | ~~Dota 2~~ | 2023-11-04 |
