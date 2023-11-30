@@ -1,16 +1,22 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Aeterna Noctis | 2023-11-21 |
-| Afterimage | 2023-11-22 |
-| Cyberpunk 2077 | 2023-11-25 |
+| Aeterna Noctis | 2023-11-26 |
+| Afterimage | 2023-11-29 |
+| Armored Core VI: Fires of Rubicon | 2023-11-26 |
+| Astral Ascent | 2023-11-30 |
+| Cyberpunk 2077 | 2023-11-26 |
 | Fire Emblem Engage | 2023-11-21 |
-| Nocturnal | 2023-11-25 |
+| Forza Horizon 5 | 2023-11-29 |
+| Hogwarts Legacy | 2023-11-27 |
+| Need For Speed Payback | 2023-11-26 |
+| Nocturnal | 2023-11-26 |
 | Persona 5 Royal | 2023-11-21 |
-| SANABI | 2023-11-21 |
+| SANABI | 2023-11-26 |
+| Sekiro: Shadows Die Twice | 2023-11-26 |
 | Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
-| The Last Faith | 2023-11-21 |
-| Ys: Memories of Celceta | 2023-11-24 |
+| The Last Faith | 2023-11-27 |
+| Ys: Memories of Celceta | 2023-11-26 |
 | ~~Baldur's Gate 3~~ | 2023-11-17 |
 | ~~Devil May Cry 4~~ | 2023-11-17 |
 | ~~Devil May Cry 5~~ | 2023-11-17 |
@@ -28,7 +34,6 @@
 | ~~Final Fantasy Type-0 HD~~ | 2023-11-16 |
 | ~~Final Fantasy XIV A Realm Reborn~~ | 2023-11-16 |
 | ~~Final Fantasy XV~~ | 2023-11-16 |
-| ~~Forza Horizon 5~~ | 2023-11-16 |
 | ~~Furi~~ | 2023-11-16 |
 | ~~Ghostrunner~~ | 2023-11-16 |
 | ~~Ghostwire: Tokyo~~ | 2023-11-16 |
@@ -49,7 +54,6 @@
 | ~~Remnant: From the Ashes~~ | 2023-11-16 |
 | ~~Returnal~~ | 2023-11-16 |
 | ~~Rocket League~~ | 2023-11-16 |
-| ~~Sekiro: Shadows Die Twice~~ | 2023-11-16 |
 | ~~Star Wars Jedi: Fallen Order~~ | 2023-11-16 |
 | ~~Star Wars Jedi: Survivor~~ | 2023-11-16 |
 | ~~Touhou: New World~~ | 2023-11-16 |
@@ -96,7 +100,6 @@
 | ~~The Legend of Heroes: Trails to Azure~~ | 1970-01-01 |
 | ~~The Lords of the Fallen~~ | 2023-10-22 |
 | ~~Ace Combat 7: Skies Unknown~~ | 1970-01-01 |
-| ~~Armored Core VI: Fires of Rubicon~~ | 1970-01-01 |
 | ~~Arto~~ | 1970-01-01 |
 | ~~Dragon Age™ Inquisition~~ | 1970-01-01 |
 | ~~Hard West 2~~ | 1970-01-01 |
@@ -125,7 +128,6 @@
 | ~~Streets of Rage 4~~ | Thu Jan 01 1970 |
 | ~~Digimon World: Next Order~~ | Wed Feb 22 2023 |
 | ~~Atomic Heart~~ | Thu Feb 23 2023 |
-| ~~Hogwarts Legacy~~ | Thu Feb 23 2023 |
 | ~~OVE : The Sword of Liberation~~ | Wed Feb 22 2023 |
 | ~~FINAL FANTASY XIII~~ | Tue Feb 21 2023 |
 | ~~Darksiders Warmastered Edition~~ | Mon Feb 20 2023 |
