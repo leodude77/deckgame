@@ -4,19 +4,24 @@
 | Aeterna Noctis | 2023-11-26 |
 | Afterimage | 2023-11-29 |
 | Armored Core VI: Fires of Rubicon | 2023-11-26 |
-| Astral Ascent | 2023-11-30 |
-| Cyberpunk 2077 | 2023-11-26 |
+| Astral Ascent | 2023-12-10 |
+| Cyberpunk 2077 | 2023-12-12 |
 | Fire Emblem Engage | 2023-11-21 |
-| Forza Horizon 5 | 2023-11-29 |
-| Hogwarts Legacy | 2023-11-27 |
-| Need For Speed Payback | 2023-11-26 |
+| Hogwarts Legacy | 2023-12-03 |
+| Metal - Hellsinger | 2023-12-12 |
+| Nested Desktop | 2023-12-12 |
 | Nocturnal | 2023-11-26 |
 | Persona 5 Royal | 2023-11-21 |
 | SANABI | 2023-11-26 |
-| Sekiro: Shadows Die Twice | 2023-11-26 |
+| Sekiro: Shadows Die Twice | 2023-12-09 |
 | Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
 | The Last Faith | 2023-11-27 |
+| The Legend of Zelda: Breath of the Wild | 2023-12-10 |
+| The Legend of Zelda: Tears of the Kingdom | 2023-12-09 |
+| Xenoblade Chronicles | 2023-12-12 |
 | Ys: Memories of Celceta | 2023-11-26 |
+| ~~Forza Horizon 5~~ | 2023-11-29 |
+| ~~Need For Speed Payback~~ | 2023-11-26 |
 | ~~Baldur's Gate 3~~ | 2023-11-17 |
 | ~~Devil May Cry 4~~ | 2023-11-17 |
 | ~~Devil May Cry 5~~ | 2023-11-17 |
@@ -108,7 +113,6 @@
 | ~~Dragon's Dogma~~ | 1970-01-01 |
 | ~~FIFA 19~~ | 2023-06-25 |
 | ~~Super Mario Odyssey~~ | 2023-06-25 |
-| ~~The Legend of Zelda: Tears of the Kingdom~~ | 2023-06-25 |
 | ~~Touhou Luna Nights~~ | 2023-06-25 |
 | ~~GOD EATER 3~~ | 1970-01-01 |
 | ~~Wo Long: Fallen Dynasty~~ | 1970-01-01 |
