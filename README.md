@@ -6,7 +6,7 @@
 | Armored Core VI: Fires of Rubicon | 2023-11-26 |
 | Astral Ascent | 2023-12-10 |
 | Cyberpunk 2077 | 2023-12-12 |
-| Fire Emblem Engage | 2023-11-21 |
+| Fire Emblem Engage | 2023-12-13 |
 | Hogwarts Legacy | 2023-12-03 |
 | Metal - Hellsinger | 2023-12-12 |
 | Nested Desktop | 2023-12-12 |
@@ -15,10 +15,12 @@
 | SANABI | 2023-11-26 |
 | Sekiro: Shadows Die Twice | 2023-12-09 |
 | Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
+| Shin Megami Tensei V | 2023-12-13 |
 | The Last Faith | 2023-11-27 |
 | The Legend of Zelda: Breath of the Wild | 2023-12-10 |
 | The Legend of Zelda: Tears of the Kingdom | 2023-12-09 |
-| Xenoblade Chronicles | 2023-12-12 |
+| Trials of Mana | 2023-12-13 |
+| Xenoblade Chronicles | 2023-12-13 |
 | Ys: Memories of Celceta | 2023-11-26 |
 | ~~Forza Horizon 5~~ | 2023-11-29 |
 | ~~Need For Speed Payback~~ | 2023-11-26 |
@@ -98,7 +100,6 @@
 | ~~NieR Replicant ver.1.22474487139...~~ | 1970-01-01 |
 | ~~SCARLET NEXUS~~ | 2023-10-22 |
 | ~~Sea of Stars~~ | 2023-10-24 |
-| ~~Shin Megami Tensei V~~ | 2023-10-17 |
 | ~~Super Mario Bros. Wonder~~ | 2023-10-21 |
 | ~~The Legend of Heroes: Trails from Zero~~ | 2023-10-27 |
 | ~~The Legend of Heroes: Trails of Cold Steel~~ | 1970-01-01 |
