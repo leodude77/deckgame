@@ -1,27 +1,29 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Aeterna Noctis | 2023-11-26 |
-| Afterimage | 2023-11-29 |
-| Armored Core VI: Fires of Rubicon | 2023-11-26 |
-| Astral Ascent | 2023-12-10 |
-| Cyberpunk 2077 | 2023-12-12 |
-| Fire Emblem Engage | 2023-12-13 |
-| Hogwarts Legacy | 2023-12-03 |
-| Metal - Hellsinger | 2023-12-12 |
-| Nested Desktop | 2023-12-12 |
-| Nocturnal | 2023-11-26 |
-| Persona 5 Royal | 2023-11-21 |
-| SANABI | 2023-11-26 |
-| Sekiro: Shadows Die Twice | 2023-12-09 |
-| Shin Megami Tensei III Nocturne HD Remaster | 2023-11-21 |
-| Shin Megami Tensei V | 2023-12-13 |
-| The Last Faith | 2023-11-27 |
-| The Legend of Zelda: Breath of the Wild | 2023-12-10 |
-| The Legend of Zelda: Tears of the Kingdom | 2023-12-09 |
-| Trials of Mana | 2023-12-13 |
-| Xenoblade Chronicles | 2023-12-13 |
-| Ys: Memories of Celceta | 2023-11-26 |
+| Darksiders Warmastered Edition | 2023-12-25 |
+| Trinity Fusion | 2023-12-25 |
+| ~~Aeterna Noctis~~ | 2023-11-26 |
+| ~~Afterimage~~ | 2023-11-29 |
+| ~~Armored Core VI: Fires of Rubicon~~ | 2023-11-26 |
+| ~~Astral Ascent~~ | 2023-12-10 |
+| ~~Cyberpunk 2077~~ | 2023-12-12 |
+| ~~Fire Emblem Engage~~ | 2023-12-13 |
+| ~~Hogwarts Legacy~~ | 2023-12-03 |
+| ~~Metal - Hellsinger~~ | 2023-12-12 |
+| ~~Nested Desktop~~ | 2023-12-12 |
+| ~~Nocturnal~~ | 2023-11-26 |
+| ~~Persona 5 Royal~~ | 2023-11-21 |
+| ~~SANABI~~ | 2023-11-26 |
+| ~~Sekiro: Shadows Die Twice~~ | 2023-12-09 |
+| ~~Shin Megami Tensei III Nocturne HD Remaster~~ | 2023-11-21 |
+| ~~Shin Megami Tensei V~~ | 2023-12-13 |
+| ~~The Last Faith~~ | 2023-11-27 |
+| ~~The Legend of Zelda: Breath of the Wild~~ | 2023-12-10 |
+| ~~The Legend of Zelda: Tears of the Kingdom~~ | 2023-12-09 |
+| ~~Trials of Mana~~ | 2023-12-13 |
+| ~~Xenoblade Chronicles~~ | 2023-12-13 |
+| ~~Ys: Memories of Celceta~~ | 2023-11-26 |
 | ~~Forza Horizon 5~~ | 2023-11-29 |
 | ~~Need For Speed Payback~~ | 2023-11-26 |
 | ~~Baldur's Gate 3~~ | 2023-11-17 |
@@ -135,7 +137,6 @@
 | ~~Atomic Heart~~ | Thu Feb 23 2023 |
 | ~~OVE : The Sword of Liberation~~ | Wed Feb 22 2023 |
 | ~~FINAL FANTASY XIII~~ | Tue Feb 21 2023 |
-| ~~Darksiders Warmastered Edition~~ | Mon Feb 20 2023 |
 | ~~Bright Memory~~ | Sat Feb 18 2023 |
 | ~~Bright Memory: Infinite~~ | Mon Feb 13 2023 |
 | ~~Drakengard 3~~ | Thu Feb 16 2023 |
