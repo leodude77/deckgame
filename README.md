@@ -1,8 +1,12 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Darksiders Warmastered Edition | 2023-12-25 |
-| Trinity Fusion | 2023-12-25 |
+| Granblue Fantasy: Relink | 2024-02-02 |
+| Prince of Persia: The Lost Crown | 2024-02-02 |
+| Ryse: Son of Rome | 2024-02-02 |
+| Tekken 8 | 2024-02-02 |
+| ~~Darksiders Warmastered Edition~~ | 2023-12-25 |
+| ~~Trinity Fusion~~ | 2023-12-25 |
 | ~~Aeterna Noctis~~ | 2023-11-26 |
 | ~~Afterimage~~ | 2023-11-29 |
 | ~~Armored Core VI: Fires of Rubicon~~ | 2023-11-26 |
