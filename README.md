@@ -1,10 +1,16 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Granblue Fantasy: Relink | 2024-02-02 |
-| Prince of Persia: The Lost Crown | 2024-02-02 |
+| Banishers: Ghosts of New Eden | 2024-02-14 |
+| Granblue Fantasy: Relink | 2024-02-12 |
+| Lies of P | 2024-02-15 |
+| Prince of Persia: The Lost Crown | 2024-02-12 |
 | Ryse: Son of Rome | 2024-02-02 |
-| Tekken 8 | 2024-02-02 |
+| Soulstice | 2024-02-12 |
+| Tales of Arise | 2024-02-12 |
+| Tekken 8 | 2024-02-15 |
+| Ys: Memories of Celceta | 2024-02-12 |
+| Steamworks Common Redistributables | 2024-02-15 |
 | ~~Darksiders Warmastered Edition~~ | 2023-12-25 |
 | ~~Trinity Fusion~~ | 2023-12-25 |
 | ~~Aeterna Noctis~~ | 2023-11-26 |
@@ -27,7 +33,6 @@
 | ~~The Legend of Zelda: Tears of the Kingdom~~ | 2023-12-09 |
 | ~~Trials of Mana~~ | 2023-12-13 |
 | ~~Xenoblade Chronicles~~ | 2023-12-13 |
-| ~~Ys: Memories of Celceta~~ | 2023-11-26 |
 | ~~Forza Horizon 5~~ | 2023-11-29 |
 | ~~Need For Speed Payback~~ | 2023-11-26 |
 | ~~Baldur's Gate 3~~ | 2023-11-17 |
@@ -85,10 +90,7 @@
 | ~~Prince of Persia: Warrior Within~~ | 2023-11-16 |
 | ~~Blazblue Entropy Effect~~ | 2023-11-11 |
 | ~~STAR OCEAN THE SECOND STORY R~~ | 2023-11-12 |
-| ~~Soulstice~~ | 2023-11-09 |
-| ~~Tales of Arise~~ | 2023-11-04 |
 | ~~Tales of Berseria~~ | 2023-11-12 |
-| ~~Steamworks Common Redistributables~~ | 2023-11-12 |
 | ~~QWxkZWFsUmF5cw==LD~~ | 2023-11-09 |
 | ~~Crysis Remastered~~ | 2023-11-04 |
 | ~~Ghostrunner 2~~ | 2023-10-28 |
