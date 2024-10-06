@@ -1,16 +1,27 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Banishers: Ghosts of New Eden | 2024-02-14 |
-| Granblue Fantasy: Relink | 2024-02-12 |
-| Lies of P | 2024-02-15 |
-| Prince of Persia: The Lost Crown | 2024-02-12 |
-| Ryse: Son of Rome | 2024-02-02 |
-| Soulstice | 2024-02-12 |
-| Tales of Arise | 2024-02-12 |
-| Tekken 8 | 2024-02-15 |
-| Ys: Memories of Celceta | 2024-02-12 |
-| Steamworks Common Redistributables | 2024-02-15 |
+| Black Myth: Wukong | 2024-10-06 |
+| Blades of Time | 2024-10-06 |
+| Bloodborne | 2024-10-06 |
+| Final Fantasy XVI | 2024-10-06 |
+| Frontier Hunter: Erza’s Wheel of Fortune | 2024-10-06 |
+| Ghost of Tsushima | 2024-10-06 |
+| Nine Sols | 2024-10-06 |
+| Sword and Fairy 7 | 2024-10-06 |
+| The Legend of Zelda: Echoes of Wisdom | 2024-10-06 |
+| The Witcher 3: Wild Hunt | 2024-10-06 |
+| Visions of Mana | 2024-10-06 |
+| ~~Banishers: Ghosts of New Eden~~ | 2024-02-14 |
+| ~~Granblue Fantasy: Relink~~ | 2024-02-12 |
+| ~~Lies of P~~ | 2024-02-15 |
+| ~~Prince of Persia: The Lost Crown~~ | 2024-02-12 |
+| ~~Ryse: Son of Rome~~ | 2024-02-02 |
+| ~~Soulstice~~ | 2024-02-12 |
+| ~~Tales of Arise~~ | 2024-02-12 |
+| ~~Tekken 8~~ | 2024-02-15 |
+| ~~Ys: Memories of Celceta~~ | 2024-02-12 |
+| ~~Steamworks Common Redistributables~~ | 2024-02-15 |
 | ~~Darksiders Warmastered Edition~~ | 2023-12-25 |
 | ~~Trinity Fusion~~ | 2023-12-25 |
 | ~~Aeterna Noctis~~ | 2023-11-26 |
