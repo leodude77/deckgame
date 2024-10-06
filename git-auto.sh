@@ -10,7 +10,7 @@ if [ -z "$userid" ]; then echo "Usage: bash git-auto.sh -u steamuserid -c steamp
 timestamp=$(date +%s)
 git checkout dev
 git pull
-node index.js $userid $custompath
+node index.js $userid "$custompath"
 git add .
 git commit -m "$timestamp"
 git push origin dev

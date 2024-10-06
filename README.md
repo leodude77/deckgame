@@ -1,17 +1,18 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Black Myth: Wukong | 2024-10-06 |
-| Blades of Time | 2024-10-06 |
-| Bloodborne | 2024-10-06 |
-| Final Fantasy XVI | 2024-10-06 |
-| Frontier Hunter: Erza’s Wheel of Fortune | 2024-10-06 |
-| Ghost of Tsushima | 2024-10-06 |
-| Nine Sols | 2024-10-06 |
-| Sword and Fairy 7 | 2024-10-06 |
-| The Legend of Zelda: Echoes of Wisdom | 2024-10-06 |
-| The Witcher 3: Wild Hunt | 2024-10-06 |
-| Visions of Mana | 2024-10-06 |
+| Asura's Wrath | 2024-10-06 |
+| ~~Black Myth: Wukong~~ | 2024-10-06 |
+| ~~Blades of Time~~ | 2024-10-06 |
+| ~~Bloodborne~~ | 2024-10-06 |
+| ~~Final Fantasy XVI~~ | 2024-10-06 |
+| ~~Frontier Hunter: Erza’s Wheel of Fortune~~ | 2024-10-06 |
+| ~~Ghost of Tsushima~~ | 2024-10-06 |
+| ~~Nine Sols~~ | 2024-10-06 |
+| ~~Sword and Fairy 7~~ | 2024-10-06 |
+| ~~The Legend of Zelda: Echoes of Wisdom~~ | 2024-10-06 |
+| ~~The Witcher 3: Wild Hunt~~ | 2024-10-06 |
+| ~~Visions of Mana~~ | 2024-10-06 |
 | ~~Banishers: Ghosts of New Eden~~ | 2024-02-14 |
 | ~~Granblue Fantasy: Relink~~ | 2024-02-12 |
 | ~~Lies of P~~ | 2024-02-15 |
