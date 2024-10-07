@@ -1,7 +1,9 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Asura's Wrath | 2024-10-06 |
+| Asura's Wrath | 2024-10-07 |
+| Final Fantasy IX | 2024-10-07 |
+| Final Fantasy VIII | 2024-10-07 |
 | ~~Black Myth: Wukong~~ | 2024-10-06 |
 | ~~Blades of Time~~ | 2024-10-06 |
 | ~~Bloodborne~~ | 2024-10-06 |
