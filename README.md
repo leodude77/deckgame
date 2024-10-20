@@ -1,6 +1,7 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
+| Metaphor: ReFantazio | 2024-10-20 |
 | Ninja Gaiden Sigma | 2024-10-20 |
 | ~~Asura's Wrath~~ | 2024-10-07 |
 | ~~Final Fantasy IX~~ | 2024-10-07 |
