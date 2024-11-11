@@ -1,8 +1,10 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Castlevania Dominus Collection | 2024-10-13 |
-| Secret of Mana | 2024-10-21 |
+| Romancing Saga 2: Revenge of Seven | 2024-11-11 |
+| Those golden days | 2024-11-11 |
+| ~~Castlevania Dominus Collection~~ | 2024-10-13 |
+| ~~Secret of Mana~~ | 2024-10-21 |
 | ~~Metaphor: ReFantazio~~ | 2024-10-20 |
 | ~~Ninja Gaiden Sigma~~ | 2024-10-20 |
 | ~~Asura's Wrath~~ | 2024-10-07 |
