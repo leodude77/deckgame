@@ -1,8 +1,7 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Romancing Saga 2: Revenge of Seven | 2024-11-11 |
-| Those golden days | 2024-11-11 |
+| Romancing Saga 2: Revenge of Seven | 2024-10-23 |
 | ~~Castlevania Dominus Collection~~ | 2024-10-13 |
 | ~~Secret of Mana~~ | 2024-10-21 |
 | ~~Metaphor: ReFantazio~~ | 2024-10-20 |
@@ -111,6 +110,7 @@
 | ~~Blazblue Entropy Effect~~ | 2023-11-11 |
 | ~~STAR OCEAN THE SECOND STORY R~~ | 2023-11-12 |
 | ~~Tales of Berseria~~ | 2023-11-12 |
+| ~~VGhvc2UgR29sZGVuIERheXM==LD~~ | 2024-11-11 |
 | ~~QWxkZWFsUmF5cw==LD~~ | 2023-11-09 |
 | ~~Crysis Remastered~~ | 2023-11-04 |
 | ~~Ghostrunner 2~~ | 2023-10-28 |
