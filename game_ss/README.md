@@ -1,5 +1,9 @@
 # Screenshot of games completed
 
+## Ninja Gaiden: Ragebound
+
+<img src="./ninja_gaiden_ragebound.webp" width="720">
+
 ## Final Fantasy XVI
 
 <img src="./final_fantasy_xvi.jpg" width="720">
