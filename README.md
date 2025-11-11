@@ -1,7 +1,12 @@
 # Games on deck
 | Name | Last Played Date |
 | :--- | :---: |
-| Romancing Saga 2: Revenge of Seven | 2024-10-23 |
+| Clair Obscur: Expedition 33 | 2025-11-11 |
+| Hollow Knight: Silksong | 2025-11-11 |
+| Lost Soul Aside™ | 2025-11-11 |
+| SHINOBI: Art of Vengeance | 2025-11-11 |
+| Stellar Blade | 2025-11-11 |
+| ~~Romancing Saga 2: Revenge of Seven~~ | 2024-10-23 |
 | ~~Castlevania Dominus Collection~~ | 2024-10-13 |
 | ~~Secret of Mana~~ | 2024-10-21 |
 | ~~Metaphor: ReFantazio~~ | 2024-10-20 |
